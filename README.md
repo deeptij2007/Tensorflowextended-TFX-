@@ -1,1 +1,2 @@
-# Tensorflowextended-TFX-
+The notebook Tensorflow data validation.ipynb contains a description of tensorflow data validation which is a part of Tensorflowextended (TFX). 
+The blog explaining the results can be found here: https://medium.com/@deeptij2007/tensorflow-data-validation-tfdv-5e36fc74d19a
